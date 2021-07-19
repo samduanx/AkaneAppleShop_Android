@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Akane\'s Shop</string>
+    <string name="logo_cd">Team logo</string>
+    <string name="meas_button">Measure</string>
+    <string name="debug_button">Debug</string>
+    <string name="about_button">About</string>
+    <string name="ready_button">Ready?</string>
+    <string name="meas_tips">Measurement Function</string>
+    <string name="meas_cameraOK">Camera OK</string>
+    <string name="debug_cam">Camera test</string>
+</resources>
