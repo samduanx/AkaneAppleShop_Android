@@ -1,2 +1,5 @@
 rootProject.name = "Akane's Shop"
 include ':app'
+
+
+include ':cv'
