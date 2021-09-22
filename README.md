@@ -3,6 +3,8 @@ Android codes of team Akane's Sweet Apple Shop, National University Students' Op
 
 This app is designed on Sony Xperia XZ2 and can be run on Android 10 or higher.
 
+Used libraries are cameraX, openCV and PMML4s. Development is on Android Studio.
+
 _Kurenai Akane_ is registered by psplive (2019 - 2021).
 
 ## Licence
